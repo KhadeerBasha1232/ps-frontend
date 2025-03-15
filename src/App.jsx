@@ -135,8 +135,6 @@ const App = () => {
           </div>
           <p className="tagline animate-slide-up">Find your dream job today</p>
           <div className="user-info animate-fade-in">
-            <span className="username">{currentUser}</span>
-            <span className="time-display">{currentTime}</span>
           </div>
         </div>
         
