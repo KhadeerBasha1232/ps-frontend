@@ -1,0 +1,11 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: auto;
+    overflow-x: hidden; /* Prevent horizontal scroll */
+  }
+  
+  body {
+    overflow: auto; /* Allows main scrollbar to work */
+  }
+  
